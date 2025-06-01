@@ -8,22 +8,19 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 export const metadata: Metadata = {
-  title: "Yash Sinha - Software Engineer",
-  description: "Full Stack Developer specializing in modern web technologies",
+  title: "Yash Sinha | Software Engineer",
+  description: "Software Engineer specializing in Java, Spring Boot, Node.js, GraphQL, and REST APIs.",
   icons: {
     icon: [
-      { rel: 'icon', url: '/favicon.ico' },
       {
-        rel: 'icon',
-        type: 'image/png',
+        url: '/assets/profile.jpg',
         sizes: '32x32',
-        url: '/favicon-32x32.png',
+        type: 'image/jpeg',
       },
       {
-        rel: 'icon',
-        type: 'image/png',
+        url: '/assets/profile.jpg',
         sizes: '16x16',
-        url: '/favicon-16x16.png',
+        type: 'image/jpeg',
       }
     ],
     apple: [
