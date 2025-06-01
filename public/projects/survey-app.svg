@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#18181B"/>
+  <rect x="100" y="100" width="1000" height="430" rx="12" fill="#27272A" stroke="#3F3F46" stroke-width="2"/>
+  
+  <!-- Form Elements -->
+  <rect x="120" y="120" width="400" height="50" rx="8" fill="#3F3F46"/>
+  <rect x="120" y="190" width="400" height="100" rx="8" fill="#3F3F46"/>
+  <rect x="120" y="310" width="400" height="40" rx="8" fill="#3F3F46"/>
+  <rect x="120" y="370" width="400" height="40" rx="8" fill="#3F3F46"/>
+  
+  <!-- Charts -->
+  <circle cx="700" cy="200" r="80" fill="none" stroke="#06B6D4" stroke-width="30" stroke-dasharray="251.2 377"/>
+  <rect x="600" y="300" width="300" height="150" rx="8" fill="#3F3F46"/>
+  
+  <!-- Project Title -->
+  <text x="600" y="580" text-anchor="middle" font-family="Arial" font-size="32" fill="#E4E4E7">
+    Dynamic Survey Application
+  </text>
+  
+  <!-- Tech Stack -->
+  <text x="600" y="610" text-anchor="middle" font-family="Arial" font-size="24" fill="#A1A1AA">
+    React.js • Firebase • Material UI • Apache E-Charts
+  </text>
+</svg> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1E1E1E"/>
+  <rect x="100" y="100" width="1000" height="430" rx="12" fill="#2D2D2D" stroke="#404040" stroke-width="2"/>
+  
+  <!-- News Cards -->
+  <rect x="120" y="120" width="300" height="180" rx="8" fill="#404040"/>
+  <rect x="440" y="120" width="300" height="180" rx="8" fill="#404040"/>
+  <rect x="760" y="120" width="300" height="180" rx="8" fill="#404040"/>
+  
+  <!-- News Headlines -->
+  <rect x="120" y="320" width="300" height="20" rx="4" fill="#606060"/>
+  <rect x="120" y="350" width="250" height="20" rx="4" fill="#606060"/>
+  
+  <rect x="440" y="320" width="300" height="20" rx="4" fill="#606060"/>
+  <rect x="440" y="350" width="250" height="20" rx="4" fill="#606060"/>
+  
+  <rect x="760" y="320" width="300" height="20" rx="4" fill="#606060"/>
+  <rect x="760" y="350" width="250" height="20" rx="4" fill="#606060"/>
+  
+  <!-- Project Title -->
+  <text x="600" y="580" text-anchor="middle" font-family="Arial" font-size="32" fill="#E4E4E4">
+    NewsApp - Real-time News Aggregator
+  </text>
+  
+  <!-- Tech Stack -->
+  <text x="600" y="610" text-anchor="middle" font-family="Arial" font-size="24" fill="#A0A0A0">
+    React.js • News API • Bootstrap
+  </text>
+</svg> 
