@@ -1,57 +1,75 @@
-# Beautiful Portfolio Template
+# Yash Sinha's Portfolio
 
-A modern and responsive portfolio template built with Next.js, Tailwind CSS, and Shadcn UI, and Shadcn UI Blocks.
+A modern, responsive, and elegant portfolio website showcasing my work, skills, and experiences. Built with cutting-edge technologies and best practices in web development.
 
-## Demo
+## 🚀 Tech Stack
 
-[Live Demo](https://shadcn-portfolio-template.vercel.app/)
+- **Framework**: Next.js
+- **Styling**: Tailwind CSS
+- **UI Components**: Shadcn UI
+- **Design**: Modern and minimalist approach
+- **Deployment**: Vercel
+- **Version Control**: Git
 
-## Preview
+## ✨ Features
 
-![Preview](./public/preview.png)
-
-## Features
-
-- 🎨 Modern and clean design
+- 🎨 Clean and modern design
 - 📱 Fully responsive layout
-- 🎯 Built with Next.js 15
-- 💅 Styled with Tailwind CSS `4.0`
-- 🧩 Built with [Shadcn UI](https://ui.shadcn.com) and [Shadcn UI Blocks](https://shadcnui-blocks.com)
-- 🌙 Dark mode support
+- 🌙 Dark/Light mode support
+- ⚡ Fast page loads and optimized performance
+- 🎯 SEO optimized
+- 📊 Project showcase
+- 📝 Skills and experience section
+- 📫 Contact form
 
-## Getting Started
+## 🛠️ Local Development
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/akash3444/portfolio-template.git
-cd shadcn-ui-landing-page
+git clone https://github.com/iamYashSinha/PortfolioV1.git
+cd portfolio
 ```
 
 2. Install dependencies:
 
 ```bash
 npm install
+# or
+yarn install
 ```
 
 3. Start the development server:
 
 ```bash
 npm run dev
+# or
+yarn dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-## Customization
+## 📝 Project Structure
 
-1. Replace the placeholder images with your own content.
-2. Modify the text and styles in the components to match your brand and messaging.
-3. Add your own features and sections as needed.
+- `/components` - Reusable UI components
+- `/pages` - Next.js pages and routing
+- `/public` - Static assets
+- `/styles` - Global styles and Tailwind configuration
+- `/lib` - Utility functions and helpers
 
-## Why this template?
+## 🔧 Configuration
 
-This project is a base template for a portfolio. It is built with Next.js, Tailwind CSS, Shadcn UI, and Shadcn UI Blocks. It is a great starting point for a portfolio. You can customized the content and media files as per your needs. It is not intended to be a complete solution for a portfolio. It is intended to be a starting point for a portfolio.
+1. Update the content in the components to personalize your portfolio
+2. Modify the styling using Tailwind CSS classes
+3. Add your projects and experiences
+4. Configure contact form and social links
 
-## Contributing
+## 📄 License
 
-If you have any suggestions or improvements, please create an issue or submit a pull request.
+This project is open source and available under the MIT License.
+
+## 📞 Contact
+
+Feel free to reach out if you have any questions or would like to connect!
+
+- GitHub: [@iamYashSinha](https://github.com/iamYashSinha)
