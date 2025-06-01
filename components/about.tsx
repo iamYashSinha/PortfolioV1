@@ -23,10 +23,10 @@ const About = () => {
               Building Scalable & Event-Driven Systems
             </h2>
             <p className="text-muted-foreground mb-6 text-justify">
-              I'm a Software Engineer at AppDirect, specializing in Java, Spring Boot, Node.js, GraphQL, and REST APIs. 
+              I&apos;m a Software Engineer at AppDirect, specializing in Java, Spring Boot, Node.js, GraphQL, and REST APIs. 
               My expertise includes implementing search ranking algorithms, optimizing API performance, 
               and building event-driven architectures. I have a strong foundation in data structures, 
-              algorithms, and object-oriented programming. I'm passionate about creating efficient solutions 
+              algorithms, and object-oriented programming. I&apos;m passionate about creating efficient solutions 
               and continuously learning new technologies. With experience in both backend systems and 
               frontend development, I bring a full-stack perspective to solving complex problems.
             </p>

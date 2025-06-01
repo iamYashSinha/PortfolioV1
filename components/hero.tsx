@@ -25,10 +25,10 @@ const Hero = () => {
           Building Scalable & Event-Driven Systems
         </h1>
         <p className="mt-6 text-[17px] md:text-lg">
-          Hey there! I'm Yash Sinha, a Software Engineer specializing in Java, Spring Boot, Node.js, GraphQL, and REST APIs. 
+          Hey there! I&apos;m Yash Sinha, a Software Engineer specializing in Java, Spring Boot, Node.js, GraphQL, and REST APIs. 
           I love building scalable systems and optimizing performance. From implementing search ranking algorithms 
           to designing event-driven architectures, I bring technical expertise and a passion for clean code. 
-          Let's build something impactful together! 🚀
+          Let&apos;s build something impactful together! 🚀
         </p>
         <div className="mt-12 flex items-center justify-center gap-4">
           <Button size="lg" className="rounded-full text-base" asChild>

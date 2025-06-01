@@ -1,4 +1,3 @@
-import { Badge } from "@/components/ui/badge";
 import { GithubLogo } from "./icons";
 import Link from "next/link";
 
